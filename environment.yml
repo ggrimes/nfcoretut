@@ -1,0 +1,8 @@
+name: /home/jovyan/.env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - nf-core
+  - nextflow
+prefix: /home/jovyan/.env
